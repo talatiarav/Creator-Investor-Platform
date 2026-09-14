@@ -1,4 +1,4 @@
-# Creator Investor Platform
+# InfluenceVest
 
 **Full-stack platform connecting investors with content creators via brand-fit matching, executing investment agreements as audited smart contracts on Polygon.**
 
